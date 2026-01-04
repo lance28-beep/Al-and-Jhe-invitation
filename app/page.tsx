@@ -70,7 +70,7 @@ export default function Home() {
               <PrincipalSponsors />
               <GuestList />
               <BookOfGuests />
-              <Registry />
+              {/* <Registry /> */}
               <FAQ />
               <Footer />
             </div>
